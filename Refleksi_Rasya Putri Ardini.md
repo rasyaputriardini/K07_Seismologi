@@ -1,4 +1,4 @@
-### Refleksi Individu - K07
+# Refleksi Individu - K07
 
 1. **Apa yang semula tidak dipahami:**  
    Perbedaan arah gerak partikel pada gelombang P, SV, dan SH serta hubungannya dengan polarisasi pada seismogram 3 komponen masih belum terlalu dipahami.
