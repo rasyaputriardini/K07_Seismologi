@@ -15,5 +15,4 @@ Alasannya, gerak partikel gelombang P sejajar dengan arah rambat, sedangkan SV b
 
 3. Panjang gelombang S: sekitar 3 km.
 
-Alasannya, dengan perkiraan kecepatan gelombang S sekitar 3 km/s dan frekuensi sekitar 1 Hz, panjang gelombang S diperkirakan sekitar 3 km berdasarkan hubungan \[
-\lambda = \frac{V_S}{f}\]
+Alasannya, dengan perkiraan kecepatan gelombang S sekitar 3 km/s dan frekuensi sekitar 1 Hz, panjang gelombang S diperkirakan sekitar 3 km berdasarkan hubungan \[\lambda = \frac{V_S}{f}\]
