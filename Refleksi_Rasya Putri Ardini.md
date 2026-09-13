@@ -1,5 +1,8 @@
 # Refleksi Individu - K07
 
+Nama: Rasya Putri Ardini  
+NIM: 24/540347/PA/22941
+
 1. **Apa yang semula tidak dipahami:**  
    Perbedaan arah gerak partikel pada gelombang P, SV, dan SH serta hubungannya dengan polarisasi pada seismogram 3 komponen masih belum terlalu dipahami.
 
